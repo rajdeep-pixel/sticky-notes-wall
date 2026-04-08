@@ -32,20 +32,22 @@ Because Sticky Flow leverages the newest Tailwind v4 bundler architecture, setup
 1.  **Clone the repository:**
     ```bash
     https://github.com/rajdeep-pixel/sticky-notes-wall.git
-    cd sticky-flow
-    ```
 
-2.  **Install exactly the dependencies:**
+2.  **Changing the directory:**
+    ```bash
+    cd sticky-notes-wall
+
+3.  **Install exactly the dependencies:**
     ```bash
     npm install
     ```
 
-3.  **Start the Vite Development Server:**
+4.  **Start the Vite Development Server:**
     ```bash
     npm run dev
     ```
 
-4.  **Open your browser:**
+5.  **Open your browser:**
     Navigate to `http://localhost:5173` to interact with the wall!
 
 ## 🤝 Contributing

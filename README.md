@@ -31,7 +31,7 @@ Because Sticky Flow leverages the newest Tailwind v4 bundler architecture, setup
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/sticky-flow.git
+    https://github.com/rajdeep-pixel/sticky-notes-wall.git
     cd sticky-flow
     ```
 

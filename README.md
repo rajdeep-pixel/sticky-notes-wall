@@ -11,7 +11,7 @@
 *   **Pastel Color Categorization:** Select from a curated palette of 6 minimal pastel colors (Amber, Rose, Emerald, Sky, Purple, and Teal) to categorize notes visually.
 *   **Pinning System:** Pin critical notes to lock their importance and keep them visually tracked.
 *   **Organic Aesthetic:** Notes feature a randomized slight mathematical rotation (-2° to 2°) to emulate a natural, physical bulletin board.
-*   **Precision UI/UX:** Features a beautiful 40/60 split-pane design, custom Segoe UI typography, and strict base-5 geometrical spacing for maximum structural symmetry.
+*   **Precision UI/UX:** Features a beautiful 40/60 split-pane design, custom Segoe UI typography.
 *   **Smart Limits:** Built-in safeguards preventing empty submissions and enforcing a 20-note maximum capacity to maintain screen organization.
 
 ## 🛠️ Technology Stack

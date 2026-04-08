@@ -2,7 +2,6 @@
 
 **Sticky Flow** is a premium, modern, and highly-aesthetic Sticky Notes Wall application designed for the **ACM SIGKDD Recruitment – Web Development Domain Task**. Built as a fast, client-side React application, it provides a seamless workspace for brainstorming, categorizing, and visually organizing ideas.
 
-!
 
 **Deployment Link :** https://sticky-notes-wall-henna.vercel.app/
 

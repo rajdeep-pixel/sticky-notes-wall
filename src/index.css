@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('/fonts/seguisb.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@theme {
+  --font-sans: "Segoe UI", Inter, Helvetica, Arial, sans-serif;
+  --font-handwriting: "Segoe UI", Inter, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply m-0 overflow-hidden bg-slate-50 text-slate-800 font-sans;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
